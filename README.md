@@ -2,7 +2,7 @@
 
 Personal portfolio showcasing AI/ML projects and automation work.
 
-**Live Site:** https://comforting-figolla-4bad85.netlify.app/
+**Live Site:** https://covalent-dev.netlify.app/
 
 ## Tech Stack
 - HTML5
